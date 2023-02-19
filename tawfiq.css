@@ -1,0 +1,237 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#top{
+    background-color: #E0EBE8;
+}
+
+.nav-list{
+    list-style: none;
+    margin-left: 60%;
+    margin-top: -60px;
+    font-size: 21px; 
+}
+
+.active{
+    text-decoration: none;
+    color: #000;
+    font-family: 'Paprika', cursive;
+    margin-right: 70px;
+}
+
+.active1{
+    text-decoration: none;
+    color: #3E9C87;
+    font-family: 'Paprika', cursive;
+    margin-right: 70px;
+}
+
+#top li{
+    display: inline-block;
+}
+
+.image1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+#name{
+    font-family: 'Alex Brush', cursive;
+    text-align: center;
+    font-weight: 700;
+    color: #3E9C87;
+    font-size: 80px;
+    margin: 8% 0% 2%;
+}
+
+.develop{
+    font-family: 'Paprika', cursive;
+    font-size: 25.2px;
+    text-align: center;
+    color: #3E9C87;
+    margin: 0% 0% 8% ;
+}
+
+#image{
+    margin-left: 17.5%;
+}
+
+.image2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 8%;
+    margin-left: 43.5%;
+}
+
+.title{
+    font-family: 'Paprika', cursive;
+    text-align: center;
+    font-size: 36px;
+    color: #3E9C87;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.list{
+    margin-top: 30px;
+    margin-left: 40%;
+    list-style: none;
+    font-size: 24px;
+    line-height: 40px;
+    color: #545454;
+    display: inline-block;
+    
+}
+
+.list a{
+    color: #545454;
+}
+
+h2{
+    font-family: 'Paprika', cursive;
+    text-align: center;
+    font-size: 45px;
+    color: #3E9C87;
+    margin: 15% 0% 0%;
+}
+
+.image3{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+
+.Work_Experiences{
+    display: inline-block;
+}
+
+.Work{
+    font-family: 'Paprika', cursive;
+    font-size: 28px;
+    color: #3E9C87;
+    text-align: right;
+}
+
+.all_skills{
+    margin-top: 5%;
+    height: 20%;
+    width: 80%;
+    margin: 5% 10%;
+}
+
+.imge{
+    display: inline-block;
+    margin-left: 22%;
+    margin-right: 5%;
+}
+
+.imge1{
+    display: inline-block;
+    margin-left: 5%;
+}
+
+.skills{
+    font-family: 'Paprika', cursive;
+    text-align: left;
+    font-size: 28px;
+    color: #3E9C87;
+}
+
+.web_pro_pho{
+    margin-top: 30px;
+    list-style: none;
+    font-size: 24px;
+    line-height: 40px;
+    color: #545454;
+    display: inline-block;
+}
+
+.skil{
+    display: inline-block;
+    width: 40%;
+    margin-left: 22%;
+}
+
+#i-can-help{
+    font-family: 'Paprika', cursive;
+    text-align: center;
+    font-size: 45px;
+    color: #3E9C87;
+    margin: 15% 0% 5%;
+}
+
+.if_you{
+    font-family: adobe-garamond-pro;
+    font-size: 24px;
+    line-height: 28px;
+    color: #595454;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.btn{
+    list-style: none;
+    text-decoration: none;
+    color: #4a4848;
+    background-color: #3E9C87;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 24px;
+    margin-left: 45%;
+}
+
+.btn:hover{
+    color: #e6e1e1;
+    background-color: #1d4f44;
+}
+
+footer{
+    background-color: #C5DED7;
+    margin-top: 10%;
+    height: 30vh;
+}
+
+.footer-list{
+    text-align: center;
+    }
+
+.footer-list li{
+display: inline-block;
+text-align: center;
+margin: 3% 0% 2%;
+}
+
+.footer-list li a{
+    text-decoration: none;
+    list-style: none;
+    color: #3E9C87;
+    font-family: 'Paprika', cursive;
+    font-size: 14px;
+    margin-right: 70px;
+}
+
+.footer-list li a:hover{
+    color: #4a4848;
+} 
+
+.rights{
+    font-size: 14px;
+    color: #3E9C87;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.chafaa{
+    list-style: none;
+    color: #3E9C87;
+}
+
+.chafaa:hover{
+    color: #4a4848;
+}
